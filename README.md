@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liangchaofei&show_icons=true&theme=radical&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![decription](https://img.shields.io/badge/tools-pycharm-green)
+### 📈 GitHub Activity Graph:
+<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 
