@@ -19,10 +19,3 @@ Here are some ideas to get you started:
 
 
 
-# 体系知识
-
-https://github.com/liangchaofei/fe-interview
-
-# 联系方式
-
-wx: curry_code
